@@ -25,7 +25,7 @@
 ### Задание 1
 
 
-1. `https://github.com/Vikeltor/gitlab-hw-01/commit/83aa48aeb38868aac3306fe5e9e4635e615bb24f`
+1. [commit](https://github.com/Vikeltor/gitlab-hw-01/commit/83aa48aeb38868aac3306fe5e9e4635e615bb24f)
 
 
 ---
@@ -33,12 +33,12 @@
 ### Задание 2
 
 
-1. `https://github.com/Vikeltor/gitlab-hw-01/commit/dab1d2a14aba5cd823ed66e36fb382047168da0b`
+1. [commit](https://github.com/Vikeltor/gitlab-hw-01/commit/dab1d2a14aba5cd823ed66e36fb382047168da0b)
 ---
 
 ### Задание 3
 
-1. `https://github.com/Vikeltor/gitlab-hw-01/network`
+1. [network](https://github.com/Vikeltor/gitlab-hw-01/network)
 
 ---
 ## Дополнительные задания (со звездочкой*)
@@ -47,4 +47,4 @@
 
 ### Задание 4
 
-1. `https://github.com/Vikeltor/gitlab-hw-01/network`
+1. [network](https://github.com/Vikeltor/gitlab-hw-01/network)
