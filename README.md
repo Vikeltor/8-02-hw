@@ -33,7 +33,7 @@
 ### Задание 2
 
 
-1. [commit](https://github.com/Vikeltor/gitlab-hw-01/commit/dab1d2a14aba5cd823ed66e36fb382047168da0b)
+1. [commit](https://github.com/Vikeltor/gitlab-hw-01/commit/4991563a0ab6a7f11acfdb96b9beacac4cb8d429)
 ---
 
 ### Задание 3
