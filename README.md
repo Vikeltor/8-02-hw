@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "Git" - `Бондарев Виктор`
+# Домашнее задание к занятию «Что такое DevOps. СI/СD»
 
 
 ### Инструкция по выполнению домашнего задания
@@ -24,27 +24,32 @@
 
 ### Задание 1
 
-
-1. [commit](https://github.com/Vikeltor/gitlab-hw-01/commit/83aa48aeb38868aac3306fe5e9e4635e615bb24f)
-
+ ![1](https://github.com/Vikeltor/8-02-hw/tree/main/img/01-01.png)
+ ![2](https://github.com/Vikeltor/8-02-hw/tree/main/img/01-02.png)
+ ![3](https://github.com/Vikeltor/8-02-hw/tree/main/img/01-03.png)
+ ![4](https://github.com/Vikeltor/8-02-hw/tree/main/img/01-04.png)
+ ![5](https://github.com/Vikeltor/8-02-hw/tree/main/img/01-05.png)
+ ![6](https://github.com/Vikeltor/8-02-hw/tree/main/img/01-06.png)
+ ![7](https://github.com/Vikeltor/8-02-hw/tree/main/img/01-07.png)
 
 ---
 
 ### Задание 2
 
 
-1. [commit](https://github.com/Vikeltor/gitlab-hw-01/commit/4991563a0ab6a7f11acfdb96b9beacac4cb8d429)
+ ![1](https://github.com/Vikeltor/8-02-hw/tree/main/img/02-01.png)
+ ![2](https://github.com/Vikeltor/8-02-hw/tree/main/img/02-02.png)
+ ![3](https://github.com/Vikeltor/8-02-hw/tree/main/img/02-03.png)
+ ![4](https://github.com/Vikeltor/8-02-hw/tree/main/img/02-04.png)
+
 ---
 
 ### Задание 3
 
-1. [network](https://github.com/Vikeltor/gitlab-hw-01/network)
+ ![1](https://github.com/Vikeltor/8-02-hw/tree/main/img/03-01.png)
+ ![2](https://github.com/Vikeltor/8-02-hw/tree/main/img/03-02.png)
+ ![3](https://github.com/Vikeltor/8-02-hw/tree/main/img/03-03.png)
+
 
 ---
-## Дополнительные задания (со звездочкой*)
 
-Эти задания дополнительные (не обязательные к выполнению) и никак не повлияют на получение вами зачета по этому домашнему заданию. Вы можете их выполнить, если хотите глубже и/или шире разобраться в материале.
-
-### Задание 4
-
-1. [network](https://github.com/Vikeltor/gitlab-hw-01/network)
